@@ -25,3 +25,9 @@ Sou o Diogo Brito, engenheiro de dados apreciador por tecnologia. Com uma bagage
   
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,gcp,python,mysql,git,github,azure)](https://skillicons.dev)
 </div>
+
+<div align="center">
+ 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b2e3c10c548122833b6ed7?variant=dark&roadmaps=sql)](https://roadmap.sh)
+
+</div>
