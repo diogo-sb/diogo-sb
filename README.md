@@ -28,6 +28,6 @@ Sou o Diogo Brito, engenheiro de dados apreciador por tecnologia. Com uma bagage
 
 <div align="center">
  
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b2e3c10c548122833b6ed7?variant=dark&roadmaps=sql)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b2e3c10c548122833b6ed7?variant=dark)](https://roadmap.sh)
 
 </div>
