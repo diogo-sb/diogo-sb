@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=334FF7&random=false&width=435&lines=Ol%C3%A1+mundo!;Diogo+Brito%2C+Engenheiro+de+Dados.)](https://git.io/typing-svg)
 
-Opa, tudo bem? Sou o Diogo Brito, engenheiro de dados e um apreciador por tecnologia. Tenho uma bagagem com uma vasta experiencia em T.I desde da área de Suporte técnico até a Engenharia de dados, área em que atualmente sou especializado.  Sigo resolvendo diversos problemas complexos no meu dia a dia e sempre venho me atualizando nas  atuais tecnologias que faz parte da área e com isso colocando em pratica e demonstrando meus conhecimentos no meu GitHub. Ultimamente sigo trabalhando em um projeto para uma instituição bancaria na parte de migração para Cloud. Deixo meu LinkedIn e estou disposição para batermos um papo! 😎
+Opa, tudo bem? 
+
+Sou o Diogo Brito, engenheiro de dados e um apreciador por tecnologia. Tenho uma bagagem com uma vasta experiencia em T.I desde da área de Suporte técnico até a Engenharia de dados, área em que atualmente sou especializado.<br />   Sigo resolvendo diversos problemas complexos no meu dia a dia e sempre venho me atualizando nas atuais tecnologias que faz parte da área e com isso colocando em pratica e demonstrando meus conhecimentos no meu GitHub. Ultimamente sigo trabalhando em um projeto para uma instituição bancaria na parte de migração para Cloud. Deixo meu LinkedIn e estou disposição para batermos um papo! 😎
 
 
 <div align="center">
